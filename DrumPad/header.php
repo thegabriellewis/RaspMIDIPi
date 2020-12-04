@@ -1,7 +1,5 @@
 <!-- Author: Gabriel Lewis -->
 <!-- Rasp-MIDI Pi -->
-<!-- CS121: Computer Organization -->
-<!-- Spring 2018 - University of Vermont -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
